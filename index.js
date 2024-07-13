@@ -1,5 +1,5 @@
-const start = document.getElementById('get')
-start.onclick = () =>{
-let ctrl = new Controller();
-ctrl.start();
-}
+const start = document.getElementById("get");
+start.onclick = () => {
+  let ctrl = new Controller();
+  ctrl.start();
+};
